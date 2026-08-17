@@ -1,0 +1,5 @@
+scraper_name: advancingbitcoin
+base_url: https://www.advancingbitcoin.com/
+events_url: https://www.advancingbitcoin.com/
+categories:
+- programming

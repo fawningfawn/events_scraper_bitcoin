@@ -1,0 +1,3 @@
+scraper_name: bitcoinday-naples
+base_url: https://bitcoinday.io/
+events_url: https://bitcoinday.io/naples{yy}/

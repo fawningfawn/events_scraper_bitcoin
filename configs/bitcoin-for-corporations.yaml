@@ -1,0 +1,5 @@
+scraper_name: bitcoin-for-corporations
+base_url: https://microstrategy.com/
+events_url: https://microstrategy.com/bitcoin/bitcoin-for-corporations
+categories:
+- finance

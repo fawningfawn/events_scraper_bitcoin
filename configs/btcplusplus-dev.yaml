@@ -1,0 +1,10 @@
+scraper_name: btcplusplus-dev
+base_url: https://btcplusplus.dev/
+events_url: https://btcplusplus.dev/
+multiple_events: true
+llm_hints:
+- "Look for event links with /conf/ pattern (e.g. /conf/nairobi, /conf/atx25)"
+- "Each /conf/ link is a separate event with its own details page"
+categories:
+- programming
+- bitcoin only

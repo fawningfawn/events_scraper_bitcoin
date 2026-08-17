@@ -1,0 +1,5 @@
+scraper_name: acelerandobitcoin
+base_url: https://acelerandobitcoin.com/
+events_url: https://acelerandobitcoin.com/
+categories:
+- bitcoin only

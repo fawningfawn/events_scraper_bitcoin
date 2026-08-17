@@ -1,0 +1,9 @@
+scraper_name: miningsummit_eu
+base_url: https://miningsummit.eu/
+events_url: https://miningsummit.eu/
+selector_remove:
+  - "nav"
+  - "footer"
+  - ".sidebar"
+  - ".widget"
+  - "[role='complementary']"

@@ -1,0 +1,5 @@
+scraper_name: bitcoinnairobiconference
+base_url: https://bitcoinnairobiconference.com
+events_url: https://bitcoinnairobiconference.com
+categories:
+- bitcoin only

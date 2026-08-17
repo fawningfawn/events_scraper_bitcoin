@@ -1,0 +1,3 @@
+scraper_name: pacificbitcoin
+base_url: https://www.pacificbitcoin.com/{year}
+events_url: https://www.pacificbitcoin.com/{year}

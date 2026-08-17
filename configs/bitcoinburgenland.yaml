@@ -1,0 +1,5 @@
+scraper_name: bitcoinburgenland
+base_url: https://www.rettedeingeld.at/bitcoin-meets-burgenland/
+events_url: https://www.rettedeingeld.at/bitcoin-meets-burgenland/
+categories:
+- bitcoin only

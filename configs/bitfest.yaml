@@ -1,0 +1,5 @@
+scraper_name: bitfest
+base_url: https://bitfest.uk/
+events_url: https://bitfest.uk/
+categories:
+- bitcoin only

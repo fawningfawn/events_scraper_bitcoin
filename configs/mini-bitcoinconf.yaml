@@ -1,0 +1,3 @@
+scraper_name: mini-bitcoinconf
+base_url: https://mini.bitcoinconf.org/en
+events_url: https://mini.bitcoinconf.org/en

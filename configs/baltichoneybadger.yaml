@@ -1,0 +1,5 @@
+scraper_name: baltichoneybadger
+base_url: https://baltichoneybadger.com/
+events_url: https://baltichoneybadger.com/
+categories:
+- bitcoin only

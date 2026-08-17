@@ -1,0 +1,5 @@
+scraper_name: bitcoinbaden
+base_url: https://bitcoinbaden.ch/
+events_url: https://bitcoinbaden.ch/
+categories:
+- bitcoin only

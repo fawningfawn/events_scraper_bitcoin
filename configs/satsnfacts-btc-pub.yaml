@@ -1,0 +1,3 @@
+scraper_name: satsnfacts-btc-pub
+base_url: https://satsnfacts.btc.pub/
+events_url: https://satsnfacts.btc.pub/

@@ -1,0 +1,4 @@
+scraper_name: bitcoinfilmfest
+base_url: https://bitcoinfilmfest.com/
+events_url: https://bitcoinfilmfest.com/bff{yy}/
+use_playwright: true

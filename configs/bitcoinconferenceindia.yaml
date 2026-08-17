@@ -1,0 +1,5 @@
+scraper_name: bitcoinconferenceindia
+base_url: https://bitcoinconferenceindia.com/
+events_url: https://bitcoinconferenceindia.com/
+categories:
+- bitcoin only

@@ -1,0 +1,5 @@
+scraper_name: satsconf-com
+base_url: https://satsconf.com.br/
+events_url: https://satsconf.com.br/
+categories:
+- bitcoin only

@@ -1,0 +1,5 @@
+scraper_name: adoptingbitcoin-capetown
+base_url: https://za{yy}.adoptingbitcoin.org/
+events_url: https://za{yy}.adoptingbitcoin.org/
+categories:
+- bitcoin only

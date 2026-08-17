@@ -1,0 +1,5 @@
+scraper_name: btcprague
+base_url: https://btcprague.com/
+events_url: https://btcprague.com/
+categories:
+- bitcoin only

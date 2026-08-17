@@ -1,0 +1,6 @@
+group: conferences_bitcoin
+display_name: Bitcoin Conferences
+weight: 15
+feed_enabled: true
+show_date: all
+hide_from_status: true

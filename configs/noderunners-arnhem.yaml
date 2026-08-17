@@ -1,0 +1,5 @@
+scraper_name: noderunners-arnhem
+base_url: https://noderunners.network/en/
+events_url: https://noderunners.network/en/conference
+categories:
+- bitcoin only

@@ -1,0 +1,6 @@
+scraper_name: bthechange_net
+base_url: https://www.bthechange.net
+events_url: https://www.bthechange.net
+categories:
+- bitcoin only
+usd_playwright: true

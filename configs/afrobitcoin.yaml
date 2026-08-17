@@ -1,0 +1,6 @@
+scraper_name: afrobitcoin
+base_url: https://afrobitcoin.org/
+events_url: https://afrobitcoin.org/
+use_playwright: true
+categories:
+- bitcoin only

@@ -1,0 +1,11 @@
+scraper_name: afriquebitcoin
+base_url: https://www.afriquebitcoin.org/
+events_url: https://www.afriquebitcoin.org/
+categories:
+- bitcoin only
+selector_remove:
+  - "nav"
+  - "footer"
+  - ".sidebar"
+  - ".widget"
+  - "[role='complementary']"

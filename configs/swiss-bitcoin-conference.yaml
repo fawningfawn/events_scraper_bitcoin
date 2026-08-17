@@ -1,0 +1,5 @@
+scraper_name: swiss-bitcoin-conference
+base_url: https://swiss-bitcoin-conference.com/
+events_url: https://swiss-bitcoin-conference.com/
+categories:
+- bitcoin only

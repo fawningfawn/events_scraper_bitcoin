@@ -1,0 +1,5 @@
+scraper_name: labitconf
+base_url: https://www.labitconf.com/
+events_url: https://www.labitconf.com/
+categories:
+- bitcoin only

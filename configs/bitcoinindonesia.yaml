@@ -1,0 +1,5 @@
+scraper_name: bitcoinindonesia
+base_url: https://bitcoinindonesia.xyz/bitcoin-indonesia-conference-{year}/
+events_url: https://bitcoinindonesia.xyz/bitcoin-indonesia-conference-{year}/
+categories:
+- bitcoin only

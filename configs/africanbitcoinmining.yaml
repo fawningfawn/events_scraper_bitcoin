@@ -1,0 +1,6 @@
+scraper_name: africanbitcoinmining
+base_url: https://africanbitcoinmining.com/
+events_url: https://africanbitcoinmining.com/
+categories:
+- mining
+- bitcoin only

@@ -1,0 +1,5 @@
+scraper_name: bitcoininvestorweek
+base_url: https://www.bitcoininvestorweek.com/
+events_url: https://www.bitcoininvestorweek.com/
+categories:
+- finance

@@ -1,0 +1,3 @@
+scraper_name: btc-main
+base_url: https://b.tc/conference/{year}
+events_url: https://b.tc/conference/{year}

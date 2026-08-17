@@ -1,0 +1,5 @@
+scraper_name: adoptingbitcoin_salvador
+base_url: https://sv{yy}.adoptingbitcoin.org/
+events_url: https://sv{yy}.adoptingbitcoin.org/
+categories:
+- bitcoin only

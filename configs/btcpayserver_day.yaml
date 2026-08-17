@@ -1,0 +1,5 @@
+scraper_name: btcpayserver_day
+base_url: https://btcpayserver.org
+events_url: https://day.btcpayserver.org
+categories:
+- bitcoin only

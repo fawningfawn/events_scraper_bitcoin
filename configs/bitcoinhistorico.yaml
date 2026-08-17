@@ -1,0 +1,4 @@
+scraper_name: bitcoinhistorico
+base_url: https://bitcoinhistorico.com/
+events_url: https://bitcoinhistorico.com/
+use_playwright: true

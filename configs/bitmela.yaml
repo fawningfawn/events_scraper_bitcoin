@@ -1,0 +1,5 @@
+scraper_name: mitmela
+base_url: https://thebitmela.com/
+events_url: https://thebitmela.com/
+categories:
+- bitcoin only

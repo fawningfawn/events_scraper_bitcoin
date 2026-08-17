@@ -1,0 +1,5 @@
+scraper_name: bitblockboom
+base_url: https://bitblockboom.com/
+events_url: https://bitblockboom.com/
+categories:
+- bitcoin only

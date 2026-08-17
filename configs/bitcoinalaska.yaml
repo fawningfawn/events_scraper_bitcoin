@@ -1,0 +1,5 @@
+scraper_name: bitcoinalaska
+base_url: https://bitcoinalaska.org/
+events_url: https://bitcoinalaska.org/
+categories:
+- bitcoin only

@@ -1,0 +1,5 @@
+scraper_name: btchel
+base_url: https://btchel.com/
+events_url: https://btchel.com/
+categories:
+- bitcoin only

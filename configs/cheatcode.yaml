@@ -1,0 +1,5 @@
+scraper_name: cheatcode
+base_url: https://www.cheatcode.co.uk
+events_url: https://www.cheatcode.co.uk
+categories:
+- bitcoin only
