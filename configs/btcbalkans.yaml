@@ -3,5 +3,6 @@ base_url: https://www.btcbalkans.com/
 events_url: https://www.btcbalkans.com/
 categories:
   - bitcoin
+  - bitcoin only
 use_playwright: true
 multiple_events: false
